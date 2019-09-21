@@ -306,6 +306,7 @@ def main(argv=None) :
     embedding_dim=150
 
     #read glove file
+    #embedding_dim = 200
     #glove_path = 'Glove_Vectors/glove.twitter.27B.' + str(embedding_dim) + 'd.txt'
     #glove,corpus = read_glove_file(X_train,X_test,glove_path,'utf-8')
 

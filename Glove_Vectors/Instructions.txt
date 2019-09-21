@@ -1,0 +1,2 @@
+Download Wikipedia and Twitter GloVe vectors from the website:
+https://nlp.stanford.edu/projects/glove/
